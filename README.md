@@ -42,9 +42,8 @@ The client provided 7 datasets and a data model illustrating the relationships b
 • Identified and removed duplicate records to prevent skewed results. For instance, I found discrepancies in the "Category" column where some names had quotation marks and others did not, and I used the "Find and Replace" function to correct this inconsistency.  
 
 
-![image](https://github.com/user-attachments/assets/18167c84-4e11-4678-bca4-b76f1db73475)
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/13430766-8742-4183-9d01-b90b821cf365" />
 
-![image](https://github.com/user-attachments/assets/6729f157-a1d1-4e16-b63c-74997b91c621)
 
 
 **Data Modeling**
