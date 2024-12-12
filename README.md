@@ -33,6 +33,9 @@ The client provided 7 datasets and a data model illustrating the relationships b
 
 # Data Cleaning and Preprocessing
 
+
+**Data Cleaning:**
+
 • I filtered each dataset to identify and remove rows with missing or blank data using the "Sort and Filter" option.
 
 • Removed the "User ID" column as it was not relevant to the analysis.
@@ -43,6 +46,7 @@ The client provided 7 datasets and a data model illustrating the relationships b
 
 
 <img width="332" alt="image" src="https://github.com/user-attachments/assets/13430766-8742-4183-9d01-b90b821cf365" />
+
 
 
 
