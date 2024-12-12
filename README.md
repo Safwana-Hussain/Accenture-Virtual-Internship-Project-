@@ -30,6 +30,10 @@ The client provided 7 datasets and a data model illustrating the relationships b
 
 •	Reaction Types Dataset: Mapped reaction types to their scores.
 
+**Tools Used:**
+
+Microsoft Excel 
+
 
 # Data Cleaning and Preprocessing
 
