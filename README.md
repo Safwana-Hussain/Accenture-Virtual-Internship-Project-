@@ -52,6 +52,7 @@ The client provided 7 datasets and a data model illustrating the relationships b
 
 **Data Modeling:**
 
+
 The preprocessing step involved combining the datasets using VLOOKUP. 
 I started with the Reaction dataset as the base and then added the relevant columns from the Content and Reaction Types datasets. This process resulted in a final Merged dataset that was complete and consistent.
 
