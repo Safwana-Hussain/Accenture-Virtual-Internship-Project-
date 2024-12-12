@@ -131,7 +131,7 @@ The findings were brought to life using Excel visualizations:
   •	**Line Charts**: Displayed monthly and hourly trends in content creation and engagement.
 
 
-<img width="616" alt="image" src="https://github.com/user-attachments/assets/5565a7d2-fabf-4a9c-b07e-6e134cedad11" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/5565a7d2-fabf-4a9c-b07e-6e134cedad11" />
 
 
 
